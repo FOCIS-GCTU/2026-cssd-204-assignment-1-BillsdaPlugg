@@ -3,10 +3,10 @@
 # Description: <PRINTOUT MY INITIALS>
 # Assignment Number: 1
 #
-# Name: <BISMARK ODAME ASANTE>
-# STUDENT ID: <2425402310>
-# Email: <2425402310@gctu.live.edu.gh>
-# Grader: <AUGUSTUS BUCKMAN>
+# Name: BISMARK ODAME ASANTE
+# STUDENT ID: 2425402310
+# Email: 2425402310@gctu.live.edu.gh
+# Grader: AUGUSTUS BUCKMAN
 #
 # On my honor, Bismark Odame Asante, this programming assignment is my own work
 # and I have not provided this code to any other student.
